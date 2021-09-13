@@ -1,0 +1,25 @@
+_repo: Afghans_66111
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spool Cotton Co.
+    alias: Spool Cotton Company, The
+    gutenberg_agent_id: '53640'
+    url: http://www.gutenberg.org/2009/agents/53640
+description: ''
+gutenberg_issued: '2021-08-22'
+identifiers:
+  gutenberg: '66111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: J. & P. Coats - Clark's O.N.T.; Afghan Book No. 289
+subjects:
+- !lcsh 'Knitting -- Patterns'
+- !lcc 'TT'
+- !lcsh 'Afghans (Coverlets)'
+- !lcsh 'Crocheting -- Patterns'
+- GITenberg
+title: Afghans
+url: http://www.gutenberg.org/ebooks/66111
